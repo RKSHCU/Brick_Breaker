@@ -1,0 +1,3 @@
+# Brick_Breaker
+This is a brick breaker game, which is developed in java.
+To Execute this game simply goto Netbeans/src and Download Game.java. Open it with JRE and Enjoy....
